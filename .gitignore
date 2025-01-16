@@ -1,0 +1,9 @@
+*.csv
+*.json
+*.pt
+*.pth
+*.bin
+*.txt
+*.safetensors
+.venv
+*finetuned*

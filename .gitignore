@@ -6,3 +6,4 @@
 *.safetensors
 .venv
 *finetuned*
+*.ini
